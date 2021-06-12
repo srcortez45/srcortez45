@@ -4,6 +4,8 @@
 - Some of my interest are mobile industry,pc industry and video games
 - These is my social media
   Email: jcortezmg@gmail.com
-  Linkedln: https://www.linkedin.com/in/josseph-cortez-211647195/
+ 
+ 
+ Linkedln: https://www.linkedin.com/in/josseph-cortez-211647195/
   Instagram: https://www.instagram.com/srcortez45/
   
