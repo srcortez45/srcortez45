@@ -18,7 +18,7 @@ Beyond the screen, I enjoy a vibrant social life. I love spending time with frie
 ## Certifications
 - **[IBM Integration Bus v10](https://www.udemy.com/certificate/UC-da64210d-82b6-4fd4-8248-9e6d5ffd1210/)**
 - **[IBM Datapower](https://www.udemy.com/certificate/UC-83b9f872-7877-48bc-9c17-12840962d30f/)**
-- **[AWS Cloud Practitioner](https://www.udemy.com/certificate/YOUR_CERTIFICATE_ID/)**
+- **[AWS Cloud Practitioner](https://www.udemy.com/certificate/UC-fc117bc8-cf5d-4c04-9ce3-7a2e44a49f0d/)**
 
 ## Languages
 - **English:** Intermediate
